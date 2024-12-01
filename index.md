@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bienvenido a mi página
+title: Bienvenido a mi página. Pagina en construcción
 ---
 
 # ¡Hola Mundo!
