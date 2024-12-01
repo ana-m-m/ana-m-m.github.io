@@ -1,0 +1,8 @@
+title: Mi Portafolio
+description: Este es mi sitio web para mostrar mis proyectos y habilidades.
+baseurl: "" # Deja en blanco si no estás usando subdirectorios
+url: "https://ana-m-m.github.io" # Reemplaza "username" con tu nombre de usuario de GitHub
+theme: jekyll-theme-cayman  # Tema predefinido que puedes cambiar más tarde
+markdown: kramdown  # El motor de markdown que usa Jekyll
+show_posts: true  # Para mostrar las entradas del blog
+
